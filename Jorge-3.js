@@ -1,6 +1,6 @@
 console.log('Hello world')
 
-const conflicto = null
+const conflicto = true
 
 if (!conflicto) {
     console.log("felicidad")
