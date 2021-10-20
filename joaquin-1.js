@@ -1,4 +1,4 @@
-let numero = 1
-const nombre = `archivo ${numero}`
+let numeros = [1, 2, 3, 4]
 
-console.log(nombre)
+numeros.map(numero => console.log(numero))
+
