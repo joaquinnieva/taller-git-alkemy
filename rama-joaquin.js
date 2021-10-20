@@ -1,1 +1,4 @@
-console.log("rama para mergwe")
+console.log(
+    'Rompiendo todo',
+    '||'
+);
